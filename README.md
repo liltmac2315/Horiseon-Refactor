@@ -8,4 +8,5 @@ Tommy Santos
 
 ## Screenshot & Links
 
+[Live URL](https://liltmac2315.github.io/Horiseon-Refactor/)
 ![screenshot of the site](./assets/webiste-hw1.png)
